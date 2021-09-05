@@ -1,2 +1,2 @@
-# Eccommerce-website-using-MERN-stack
-It will be full flege eccomerce website base on MERN stack technologies
+
+It's ecommerece website frontend using Reactjs css3 flexbox/Grid 
